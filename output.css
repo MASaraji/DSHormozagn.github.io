@@ -635,12 +635,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 24rem;
 }
 
-.pt-3 {
-  padding-top: 0.75rem;
-}
-
 .pr-20 {
   padding-right: 5rem;
+}
+
+.pt-3 {
+  padding-top: 0.75rem;
 }
 
 .text-4xl {

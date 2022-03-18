@@ -652,6 +652,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 0.75rem;
 }
 
+.px-28 {
+  padding-left: 7rem;
+  padding-right: 7rem;
+}
+
 .pt-48 {
   padding-top: 12rem;
 }
@@ -769,11 +774,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   .sm\:m-4 {
     margin: 1rem;
   }
-
-  .sm\:px-10 {
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-  }
 }
 
 @media (min-width: 1024px) {
@@ -818,6 +818,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     border-radius: 0.75rem;
   }
 
+  .lg\:rounded-lg {
+    border-radius: 0.5rem;
+  }
+
   .lg\:p-4 {
     padding: 1rem;
   }
@@ -834,6 +838,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   .lg\:py-6 {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+  }
+
+  .lg\:px-5 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 
   .lg\:pt-20 {
